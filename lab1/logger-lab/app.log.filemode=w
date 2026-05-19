@@ -1,0 +1,2 @@
+logging.basicConfig(filename="app.log", filemode="w")
+
